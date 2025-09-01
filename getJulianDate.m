@@ -1,0 +1,4 @@
+function j0 = getJulianDate(year, month, day)
+j0 = 367*year - floor(7*(year + floor((month + 9)/12))/4) ...
+     + floor(275*month/9) + day + 1721013.5;
+end
