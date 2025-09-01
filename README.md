@@ -22,7 +22,6 @@ It includes MATLAB scripts for orbit propagation, Lambert transfer, and visualiz
   - `getJulianDate` (optional) – Convert calendar date to Julian date.  
 
 ## How to Run
-1. Clone this repository.  
-2. Open MATLAB and run the main script:  
+1. Open MATLAB and run the main script:  
    ```matlab
    main.m
